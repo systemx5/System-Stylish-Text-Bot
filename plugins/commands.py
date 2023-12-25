@@ -17,20 +17,20 @@ async def start(c, m):
 
 `I can help you to get stylish fonts. Just send me some text and see magic.`
 
-** Developer by :** ❤️ ▷ [@ZauteKm](https://t.me/ZauteKm/346)
+** Developer by :** ❤️ ▷ [@BLACKx_GOD](https://t.me/BLACKx_GOD)
 """
 
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('👥 Group', url=f"https://t.me/iZaute/5"),
-            InlineKeyboardButton('Channel 📢', url=f"https://t.me/iZaute/6")
+            InlineKeyboardButton('👥 Group', url=f"https://t.me/MAHTOxOFFICIAL"),
+            InlineKeyboardButton('Channel 📢', url=f"https://t.me/MAHTOxOFFICIAL")
             ],[
             InlineKeyboardButton('❤️ Credit', url=f"https://t.me/{owner_username}"),
-            InlineKeyboardButton('Bot Lists 🤖', url=f"https://t.me/iZaute/8"),
-            InlineKeyboardButton('GitHup 🤣', url=f"https://github.com/ZauteKm")
+            InlineKeyboardButton('Bot Lists 🤖', url=f"https://t.me/MAHTOxOFFICIAL"),
+            InlineKeyboardButton('GitHup 🤣', url=f"https://github.com/systemx5/System-Stylish-Text-Bot")
             ],[
-            InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url=f"https://youtube.com/c/ZauteKm")
+            InlineKeyboardButton('⚜️ Sᴄᴇᴏɴᴅ Dᴍ ⚜️', url=f"https://t.me/Soul_mortal58")
         ]
     ]
     await m.reply_text(
